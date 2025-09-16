@@ -1,0 +1,62 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.380663",
+  "default_ports": [
+    80,
+    443,
+    2222,
+    8080
+  ],
+  "dependencies": [],
+  "description": "concourse is a free and open-source continuous thing-doer. Concourse provides container-based CI/CD with pipelines defined as code, emphasizing reproducibility and clarity",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/concourse",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/concourse",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.380684",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "concourse",
+  "repository_url": "https://github.com/howtomgr/concourse",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "concourse Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/concourse"
+}
